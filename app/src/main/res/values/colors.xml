@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lime_50" type="color">#F9FBE7</item>
+    <item name="lime_100" type="color">#F0F4C3</item>
+    <item name="lime_200" type="color">#E6EE9C</item>
+    <item name="lime_300" type="color">#DCE775</item>
+    <item name="lime_400" type="color">#D4E157</item>
+    <item name="lime_500" type="color">#CDDC39</item>
+    <item name="lime_600" type="color">#C0CA33</item>
+    <item name="lime_700" type="color">#AFB42B</item>
+    <item name="lime_800" type="color">#9E9D24</item>
+    <item name="lime_900" type="color">#827717</item>
+    <item name="lime_a100" type="color">#F4FF81</item>
+    <item name="lime_a200" type="color">#EEFF41</item>
+    <item name="lime_a400" type="color">#C6FF00</item>
+    <item name="lime_a700" type="color">#AEEA00</item>
+    <item name="tranparent" type="color">#00000000</item>
+
+    <item name="textColorPrimary" type="color">#000000</item>
+
+
+</resources>
